@@ -1041,8 +1041,8 @@
                         <span class="project-tag">PHP</span>
                         <span class="project-tag">MySQL</span>
                     </div>
-                    <h3 class="project-title">Aquariums Booking</h3>
-                    <p class="project-desc">An aquarium ticket booking system with scheduling, seat management, and admin controls.</p>
+                    <h3 class="project-title">AquaDiveDeep — Aquariums Booking</h3>
+                    <p class="project-desc">A full aquarium ticket booking system with login, scheduling, seat management, and admin controls. Live on Railway.</p>
                     <div class="project-links">
                         <a href="https://github.com/SteroiCode/aquariums-booking" target="_blank" class="project-link"><i class="fa-brands fa-github"></i> Code</a>
                         <a href="https://aquarium-booking-production.up.railway.app" target="_blank" class="project-link"><i class="fa-solid fa-arrow-up-right-from-square"></i> Live Demo</a>
